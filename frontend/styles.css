@@ -1,0 +1,41 @@
+body {
+    background-color: #940d36;
+    color: #c9d1d9;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    background: #161b22;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #58a6ff;
+}
+
+.input-section input, .input-section button {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+input {
+    background: #30363d;
+    color: white;
+}
+
+button {
+    background: #238636;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #2ea043;
+}
+
+.withdraw-btn {
+    background: #da3633;
+}
